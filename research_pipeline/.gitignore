@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Data
+data/raw/*
+data/staging/*
+data/processed/*
+!data/raw/.gitkeep
+!data/staging/.gitkeep
+!data/processed/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.local
+venv/
+env/
+ENV/

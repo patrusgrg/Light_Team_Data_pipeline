@@ -1,0 +1,12 @@
+# Sensor Configuration
+sensors:
+  acoustic:
+    type: SM4
+  sqm:
+    type: Sky Quality Meter
+  hobo:
+    type: HOBO Logger
+  thermal:
+    type: Thermal Camera
+  mistnet:
+    type: Bird Detection

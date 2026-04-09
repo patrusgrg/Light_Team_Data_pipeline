@@ -1,0 +1,5 @@
+# Data Paths Configuration
+paths:
+  data_root: data/
+  raw_data: data/raw/
+  processed_data: data/processed/
